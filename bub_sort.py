@@ -14,7 +14,7 @@ def bub_sort(arr):
                 
 
 if __name__ == '__main__':
-    numbers = [3,4,5,1,2]
+    numbers = [3,4,5,7858,3]
     print(numbers)
     bub_sort(numbers)
     print(numbers)
